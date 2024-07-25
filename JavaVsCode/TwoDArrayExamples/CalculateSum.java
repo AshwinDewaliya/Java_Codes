@@ -4,12 +4,9 @@ public class CalculateSum {
 
     public static int matrixRowAddition(int [][] matrix){
         int sum=0;
-        int rowBegin=1;
-        int rowEnd=matrix.length-1;
-        int columnBegin=0;
-        int columnEnd=matrix[0].length-1;
-        for(int i=rowBegin;i<rowEnd;i++){
-            sum += matrix[columnBegin][i];
+        
+        for(int i=0;i<matrix[0].length;i++){
+            sum += matrix[1][i];
         }
         return sum;
     }

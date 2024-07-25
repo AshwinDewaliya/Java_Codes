@@ -1,3 +1,4 @@
+package ArrayEx;
 import java.util.Scanner;
 public class Arr1 {
     public static void main(String[] args) {

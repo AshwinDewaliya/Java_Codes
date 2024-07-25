@@ -1,3 +1,4 @@
+package ArrayEx;
 public class SubArray {
 
     public static void subArray(int arr[]){

@@ -1,3 +1,4 @@
+package ArrayEx;
 public class Sum1 {
     public static void maxArray(int []arr){
         int currSum=0,maxSum=Integer.MIN_VALUE;

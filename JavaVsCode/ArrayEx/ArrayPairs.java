@@ -1,3 +1,4 @@
+package ArrayEx;
 public class ArrayPairs {
 
     public static void printArr(int []arr){

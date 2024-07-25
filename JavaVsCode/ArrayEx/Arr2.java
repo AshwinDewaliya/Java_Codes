@@ -1,3 +1,4 @@
+package ArrayEx;
 public class Arr2 {
 
     public static int linearSearch(String[] arr, String key){

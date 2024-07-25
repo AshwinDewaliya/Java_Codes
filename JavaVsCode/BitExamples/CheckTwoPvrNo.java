@@ -1,0 +1,9 @@
+public class CheckTwoPvrNo {
+
+    public static boolean checkNo(int n){
+        return ((n & (n-1))==0);
+    }
+    public static void main(String[] args) {
+        System.out.println(checkNo(15));
+    }
+}

@@ -1,3 +1,4 @@
+package ArrayEx;
 public class Sum2 {
 
     public static int[] sum2(int []arr,int target){
